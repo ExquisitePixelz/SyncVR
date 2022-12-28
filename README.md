@@ -1,6 +1,9 @@
 # SyncVR
 My intership commission for SyncVR
 
+Notes on design choices during development:
+There's a design choices PDF, found in this git. It describes some of my thought as I developed this app.
+
 Notes on development of the game:
 Some assets were downloaded and used which I paided for. These assets which were used were only used for art. All code was written by me. 
 The assets used were:
