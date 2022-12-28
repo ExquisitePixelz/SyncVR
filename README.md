@@ -23,6 +23,7 @@ After which, it can be installed and played. The game should explain all there i
 4. There are no visible barriers, but you can't fly out of the playable area. This can be confusing. 
 
 5. The setting to set the resolution the game is played in, isn't working, this is because it only detects the resolutions of a PC and not mobile phones.
+
 I would have added a way to play the game on dekstop, but this would've taken me more time than I already spent. 
 A workaround which I used to test the game, is to use Unity Remote, a builtin feature to stream the game on the phone and use its features.
 To use this workaround, make sure that in "Project Settings > Editor > Device" is set to: "Any Android Device"
