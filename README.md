@@ -21,3 +21,11 @@ After which, it can be installed and played. The game should explain all there i
 2. Hover mode can be used to scout around whithout frantically flying around, or for the more finer maneuvers. 
 3. Fruits wil not spawn inside objects, but they can spawn behind, above or below objects, searching is neccecary. 
 4. There are no visible barriers, but you can't fly out of the playable area. This can be confusing. 
+
+5. The setting to set the resolution the game is played in, isn't working, this is because it only detects the resolutions of a PC and not mobile phones.
+I would have added a way to play the game on dekstop, but this would've taken me more time than I already spent. 
+A workaround which I used to test the game, is to use Unity Remote, a builtin feature to stream the game on the phone and use its features.
+To use this workaround, make sure that in "Project Settings > Editor > Device" is set to: "Any Android Device"
+After this, connect an android phone via usb cable. Make sure the phone is on the Unity Remote App. And hit play in the editor. 
+NOTE: The phone should have developer options enabled and USB debugging enabled aswell, or this won't work. To see how to enable these options, follow this link.
+https://www.embarcadero.com/starthere/xe5/mobdevsetup/android/en/enabling_usb_debugging_on_an_android_device.html
