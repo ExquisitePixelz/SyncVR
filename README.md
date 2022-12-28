@@ -1,6 +1,20 @@
 # SyncVR
 My intership commission for SyncVR
 
+Notes on development of the game:
+Some assets were downloaded and used which I paided for. These assets which were used were only used for art. All code was written by me. 
+The assets used were:
+1. "Cinemachine" for a more advanced camera system
+2. "TextMeshPro" for better UI elements
+3. "Eternal Temple" by Mana Station for creating cliff structures with some vegetation
+4. "Low poly fruit pickups" by Rem Storms as pickups
+5. "Small red dragon" by Stonesnail as main character
+6. "Toon Fantasy Nature" by SICS Games for the skybox
+7. Audio from https://pixabay.com/ and https://Freesound.org
+
+
+
+
 Installing and playing the game:
 Download the APK on your android phone using this link: 
 https://exquisitepixelz.itch.io/dragonfruit
